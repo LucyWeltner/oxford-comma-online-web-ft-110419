@@ -4,4 +4,4 @@ def oxford_comma(array)
   end
 end
 
-oxford_comma([3])
+p oxford_comma([3])
